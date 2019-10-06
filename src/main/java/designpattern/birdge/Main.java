@@ -2,8 +2,7 @@ package designpattern.birdge;
 
 /**
  * DATE  2019-08-20
- *
- *
+ * 桥接模式
  */
 public class Main {
     public static void main(String[] args) {

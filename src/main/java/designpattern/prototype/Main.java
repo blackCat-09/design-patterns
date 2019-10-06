@@ -2,7 +2,7 @@ package designpattern.prototype;
 
 /**
  * DATE  2019-08-19
- *
+ * 原型模式
  *
  */
 public class Main {

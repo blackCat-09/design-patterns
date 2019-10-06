@@ -2,7 +2,7 @@ package designpattern.responsibility;
 
 /**
  * DATE  2019-09-01
- *
+ * 责任链模式
  *
  */
 public class Main {

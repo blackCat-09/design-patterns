@@ -2,9 +2,7 @@ package designpattern.component;
 
 /**
  * DATE  2019-08-31
- * 组合模
- *
- *
+ * 组合模式
  */
 public class Main {
 
