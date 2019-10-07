@@ -7,7 +7,6 @@ import java.util.List;
  * DATE 2019-08-31 发布者，该类维护一个订阅者列表，实现订阅、取消订阅、通知所有订阅者
  * （由于观察目标和观察者没有紧密地耦合在一起，因此它们可以属于不同的抽象化层次）
  *
- *
  */
 public class Publisher {
 	private List<Subscriber> subscribers;

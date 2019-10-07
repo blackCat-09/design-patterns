@@ -1,9 +1,8 @@
 package designpattern.mediator;
 
 /**
- * DATE 2019-09-01 具体中介者
- * 
- *
+ * DATE 2019-09-01
+ * 具体中介者
  */
 public class SyncMediator extends AbstractMediator {
 

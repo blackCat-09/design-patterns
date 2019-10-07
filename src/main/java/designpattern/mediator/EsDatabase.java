@@ -4,9 +4,8 @@ import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
- * DATE 2019-09-01 ES 具体同事类
- * 
- *
+ * DATE 2019-09-01
+ * ES 具体同事类
  */
 public class EsDatabase extends AbstractDatabase {
 

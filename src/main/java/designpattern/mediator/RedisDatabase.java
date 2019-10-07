@@ -4,8 +4,8 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * DATE 2019-09-01 Redis 具体同事类
- * 
+ * DATE 2019-09-01
+ * Redis 具体同事类
  *
  */
 public class RedisDatabase extends AbstractDatabase {

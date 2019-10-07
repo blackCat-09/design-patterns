@@ -3,7 +3,6 @@ package designpattern.mediator;
 /**
  * DATE  2019-09-01
  * 抽象同事类
- *
  */
 public abstract class AbstractDatabase {
 

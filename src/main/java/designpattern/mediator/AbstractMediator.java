@@ -1,9 +1,9 @@
 package designpattern.mediator;
 
 /**
- * DATE 2019-09-01 抽象中介者
+ * DATE 2019-09-01
+ * 抽象中介者
  * 
- *
  */
 public abstract class AbstractMediator {
 

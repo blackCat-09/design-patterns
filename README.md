@@ -31,6 +31,8 @@
 
 [单例模式](./src/main/java/designpattern/singleton) 
 
+[状态模式](./src/main/java/designpattern/state) 
+
 [策略模式](./src/main/java/designpattern/strategy1) 
 
 [模板方法](./src/main/java/designpattern/template) 
